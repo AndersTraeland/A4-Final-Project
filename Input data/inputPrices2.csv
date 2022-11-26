@@ -1,0 +1,54 @@
+Slabs:;Recomended price, EUR;Your price;Price unit
+Concrete;;;
+Reinforcement;12640;12640;Price per m3
+Material;130;130;Price per m3
+Formework;28;28;Price per m2
+Labour;90;90;Price per m2
+;;;
+Timber:;;;
+Material;77;77;Price per m3
+Labour;90;90;Price per m2
+;;;
+;;;
+Columns:;Recomended price, EUR;Your price;Price unit
+Concrete;;;
+Reinforcement;12640;12640;Price per m3
+Material;130;130;Price per m3
+formework;50;50;Price per m2
+Labour;250;250;Price per m
+;;;
+Steel;;;
+Material;11850;11850;Price per m3
+Labour;480;480;Price per column
+;;;
+Timber;;;
+Material;77;77;Price per m3
+Labour;480;480;Price per column
+;;;
+;;;
+Beams:;Recomended price, EUR;Your price;Price unit
+Concrete;;;
+Reinforcement;12640;12640;Price per m3
+Material;130;130;Price per m3
+formework;28;28;Price per m2
+Labour;250;250;Price per m
+;;;
+Steel;;;
+Material;11850;11850;Price per m3
+Labour;480;480;Price per beam
+;;;
+Timber;;;
+Material;77;77;Price per m3
+Labour;480;480;Price per beam
+;;;
+;;;
+Walls:;Recomended price, EUR;Your price;Price unit
+Concrete;;;
+Reinforcement;12640;12640;Price per m3
+Material;130;130;Price per m3
+formework;28;28;Price per m2
+Labour;90;90;Price per m2
+;;;
+Timber;;;
+Material;77;77;Price per m3
+Labour;98;98;Price per m2
